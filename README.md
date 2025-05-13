@@ -1,0 +1,14 @@
+# ICS2O ⇢ Unit #6-01
+
+[![Mr Coxall's Super Linter](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-6-01-adrina-peighambarzadeh/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-6-01-adrina-peighambarzadeh/actions)
+
+This site can be found at: [https:/https://icd2o-1-teh.type-code.cloud/~ain.jeong/ICD2O-1/Unit-5/ICD2O-Unit-6-01-adrina-peighambarzadeh/](https:/https://icd2o-1-teh.type-code.cloud/~ain.jeong/ICD2O-1/Unit-5/ICD2O-Unit-6-01-adrina-peighambarzadeh/)
+---
+
+**NOTES ON INITIAL LOAD:**
+- remember to goto on the menu bar:
+  - File
+  - Go to Repository
+  - ⚙ Settings
+  - 🗔 Pages
+    - then from the "Deploy from a branch ▼" button, select "GitHub Actions"
