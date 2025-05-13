@@ -2,8 +2,8 @@
   "name": "Adrina-peighambarzadeh's App",
   "short_name": "Adrina-peighambarzadeh's App",
   "description": "Github Page for Adrina-peighambarzadeh's",
-  "scope": "/ICD2O-Unit-6-01-Adrina-peighambarzadeh/",
-  "start_url": "/ICD2O-Unit-6-01-Adrina-peighambarzadeh/",
+  "scope": "/ICD2O-Unit-6-01-B-Adrina-peighambarzadeh/",
+  "start_url": "/ICD2O-Unit-6-01-B-Adrina-peighambarzadeh/",
   "permissions": [ 
     "unlimitedStorage",
     "fullscreen"

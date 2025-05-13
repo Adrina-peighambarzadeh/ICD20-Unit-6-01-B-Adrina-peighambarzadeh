@@ -10,8 +10,8 @@
  * Check servie worker.
  */
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICD2O-Unit-6-01-Adrina-peighambarzadeh/sw.js", {
-    scope: "/ICD2O-Unit-6-01-Adrina-peighambarzadeh/",
+  navigator.serviceWorker.register("/ICD2O-Unit-6-01-B-Adrina-peighambarzadeh/sw.js", {
+    scope: "/ICD2O-Unit-6-01-B-Adrina-peighambarzadeh/",
   })
 }
 /**
